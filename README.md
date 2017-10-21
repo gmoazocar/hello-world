@@ -1,3 +1,36 @@
-# hello-world
-Just another repository
-I just made another changes
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -68.92556190490723,
+              -26.030023777439848
+            ],
+            [
+              -68.87483596801758,
+              -26.030023777439848
+            ],
+            [
+              -68.87483596801758,
+              -25.99824422900654
+            ],
+            [
+              -68.92556190490723,
+              -25.99824422900654
+            ],
+            [
+              -68.92556190490723,
+              -26.030023777439848
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
